@@ -20,3 +20,4 @@ installer/target/
 
 # Written by the recompiler next to the manifest
 config/generated/
+/.github/FNCReborn
